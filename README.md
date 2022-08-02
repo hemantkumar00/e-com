@@ -58,3 +58,12 @@ Since anything in our codebase can be extended, overwritten, or installed as a p
 
 ##Contact us Mail Page
 ![Screenshot_116](https://user-images.githubusercontent.com/64378827/182291099-fa4fc5ac-660f-4c29-9e6a-430b796124f6.jpg)
+
+## UML Diagram
+[XenonStackEcomerce.pdf](https://github.com/hemantkumar00/e-com/files/9239049/XenonStackEcomerce.pdf)
+
+## Class Diagram 
+[ecomm.pdf](https://github.com/hemantkumar00/e-com/files/9239050/ecomm.pdf)
+
+
+

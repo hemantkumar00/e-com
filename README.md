@@ -39,3 +39,9 @@ Since anything in our codebase can be extended, overwritten, or installed as a p
   - Development Mode (Server only): `cd server` then `npm run start` then open `http://localhost:5050` in a browser
 
 
+![home](https://user-images.githubusercontent.com/64378827/182290276-491610cd-f5e4-4b6a-9951-179311a36fd6.png)
+
+
+
+
+

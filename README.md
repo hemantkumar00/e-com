@@ -1,5 +1,7 @@
 # E-commerce (MERN Stack)
 
+E-commerce store to buy products 
+
 ## Features
 
 WaftEngine core features include:
